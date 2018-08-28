@@ -1,2 +1,2 @@
 # bryan-social
-ActivityPub based social site
+[ActivityPub](https://www.w3.org/TR/activitypub/) based social site
